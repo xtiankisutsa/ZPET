@@ -1,7 +1,7 @@
 <img src="OUT%20ZPET%20DESIGN%20FINAL-05.png">
-The Zero-Pin Extraction Toolkit For iPhone
+# The Zero-Pin Extraction Toolkit For iPhone
 
-Build B91 RC1 Release Features:
+# Build B91 RC1 Release Features:
 - Apple ID & Connected Device Accounts
 - WiFi Network Detailed Extraction
 - Flight Information (FROM/TO)
@@ -15,7 +15,7 @@ Build B91 RC1 Release Features:
 - Mail VIP Contact List Fetching
 - Passcode Attempt Information
 
-
+# An Overview
 In a situation where an iOS Device is BFU, it’s generally speaking not possible to retrieve data from the iOS Device. The release of the checkm8 exploit made the challenge of extracting data much easier for the likes of Cellebrite and other forensics organisations. 
 
 ZPET is designed to enable the public to understand and visualise the data that their device is holding in an unencrypted form. By executing ZPET while the device is locked and BFU, a wealth of information can be extracted and visualised by the end-user.
