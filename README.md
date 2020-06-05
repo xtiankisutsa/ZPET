@@ -1,6 +1,6 @@
 <img src="OUT%20ZPET%20DESIGN%20FINAL-05.png">
 
-# Build B91 RC1 Release Features:
+# Build B91 RC1 Release Features
 - Apple ID & Connected Device Accounts
 - WiFi Network Detailed Extraction
 - Flight Information (FROM/TO)
